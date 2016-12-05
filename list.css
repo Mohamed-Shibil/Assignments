@@ -1,0 +1,70 @@
+#header
+{
+	border:solid;
+	width:48%;
+	background-color:#4682B4;
+	border:#4682B4;
+	height:30px;
+	
+}
+
+#home
+{
+	margin-right:3px;
+	padding-right:3px;
+	font-family:impact;
+	color:white;
+	display:inline;
+	border-right:solid;
+	border-right-width:1px;
+	border-right-color:white;
+}
+
+#university
+{
+	margin-right:2px;
+	padding-right:3px;
+	font-family:impact;
+	color:white;
+	display:inline;
+	border-right:solid;
+	border-right-width:1px;
+	border-right-color:white;
+	
+}
+
+#cdesk
+{
+	margin-right:2px;
+	padding-right:3px;
+	font-family:impact;
+	color:white;
+	display:inline;
+	border-right:solid;
+	border-right-width:1px;
+	border-right-color:white;
+}
+
+#pbhavan
+{
+	margin-right:3px;
+	padding-right:3px;
+	font-family:impact;
+	color:white;
+	display:inline;
+	border-right:solid;
+	border-right-width:1px;
+	border-right-color:white;
+}
+
+#tdept
+{
+	margin-right:3px;
+	padding-right:3px;
+	font-family:impact;
+	color:white;
+	display:inline;
+	border-right:solid;
+	border-right-width:1px;
+	border-right-color:white;
+}

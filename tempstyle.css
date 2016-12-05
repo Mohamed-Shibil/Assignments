@@ -1,0 +1,64 @@
+#maindiv
+{ 
+ border:solid;
+ width:40%;
+ padding-bottom:1px;
+ border-color:black;
+ border-width:1px;
+ height:490px;
+}
+
+#hgreen
+{
+	border:solid;
+	padding-bottom:35px;
+	background-color:#228B22;
+	margin-top:10px;
+	margin-left:10px;
+	margin-right:10px;
+	color:#228B22;
+	border-color:black;
+	border-width:1px;
+	
+}
+
+#nblue
+{
+	border:solid;
+	padding-bottom:300px;
+	background-color:#87CEFA;
+	margin-right:375px;
+	float:left;
+	margin-left:10px;
+	color:#87CEFA;
+	border-color:black;
+	border-width:1px;
+	
+}
+
+#sorange
+{
+	border:solid;
+	background-color:orange;
+	margin-left:170px;
+	margin-right:10px;
+	color:orange;
+    height:320px;
+	border-color:black;
+	border-width:1px;
+}
+
+#fred
+{
+	border:solid;
+	background-color:#F08080;
+	padding-bottom:35px;
+	margin-left:10px;
+	margin-right:10px;
+	color:#F08080;
+	border-color:black;
+	border-width:1px;
+	height:20px;
+	
+	
+}
