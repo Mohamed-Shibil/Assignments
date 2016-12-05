@@ -1,0 +1,83 @@
+#header
+{
+	border:solid;
+	width:37%;
+	background-color:#4682B4;
+	border:#4682B4;
+	height:30px;
+	
+}
+
+#home
+{
+	margin-right:3px;
+	padding-right:3px;
+	font-size:20px;
+	color:white;
+	display:inline;
+	border-right:solid;
+	border-right-width:1px;
+	border-right-color:white;
+}
+
+#university
+{
+	margin-right:2px;
+	padding-right:3px;
+	font-size:15px;
+	color:white;
+	display:inline;
+	border-right:solid;
+	border-right-width:1px;
+	border-right-color:white;
+	
+}
+
+#cdesk
+{
+	
+	margin-right:2px;
+	padding-right:3px;
+	color:white;
+	display:inline;
+	border-right:solid;
+	border-right-width:1px;
+	border-right-color:white;
+    
+}
+
+#pbhavan
+{
+	margin-right:3px;
+	padding-right:3px;
+	font-size:14;
+	color:white;
+	display:inline;
+	border-right:solid;
+	border-right-width:1px;
+	border-right-color:white;
+}
+
+#home:hover
+{
+	color:yellow;
+	font-family:impact;
+}
+
+#university:hover
+{
+	color:yellow;
+	font-family:impact;
+}
+
+#cdesk:hover
+{
+	color:yellow;
+	font-family:impact;
+}
+
+#pbhavan:hover
+{
+   color:yellow;
+   font-family:impact;
+}   
